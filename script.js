@@ -30,3 +30,4 @@ function nakresliStrom(x,y,delka,uhel,sirka,barva1,barva2)
     context.restore()
 }
 nakresliStrom(canvas.width/2, canvas.height - 80, 120, 0, 2, 'brown', 'green');
+ 
